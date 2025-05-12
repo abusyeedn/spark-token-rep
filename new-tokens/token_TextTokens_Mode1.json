@@ -1,0 +1,706 @@
+{
+  "Display": {
+    "large": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-1200}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-1100}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-1200}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-1100}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      },
+      "Semibold": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-1200}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-1100}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Semibold-600}"
+        }
+      }
+    },
+    "medium": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-1100}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-900}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-1100}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-1000}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      },
+      "Semibold": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-1100}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-900}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Semibold-600}"
+        }
+      }
+    },
+    "small": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-1000}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-900}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-1000}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-900}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      },
+      "Semibold": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-1000}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-900}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Semibold-600}"
+        }
+      }
+    },
+    "xlarge": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-1300}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-1200}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-1300}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-1200}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      },
+      "Semibold": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-1300}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-1200}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Semibold-600}"
+        }
+      }
+    }
+  },
+  "Heading": {
+    "2xlarge": {
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-900}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-800}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      },
+      "Semibold": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-900}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-800}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Semibold-600}"
+        }
+      }
+    },
+    "large": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-700}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-600}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-700}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-600}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      },
+      "Semibold": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-700}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-600}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Semibold-600}"
+        }
+      }
+    },
+    "medium": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-600}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-500}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-600}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-500}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      },
+      "Semibold": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-600}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-500}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Semibold-600}"
+        }
+      }
+    },
+    "small": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-500}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-400}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-500}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-400}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      },
+      "Semibold": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-500}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-400}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Semibold-600}"
+        }
+      }
+    },
+    "xlarge": {
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-800}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-700}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      },
+      "Semibold": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-800}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-700}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Semibold-600}"
+        }
+      }
+    }
+  },
+  "Label": {
+    "large": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-600}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-500}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-600}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-500}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      }
+    },
+    "medium": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-400}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-400}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-400}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-400}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      }
+    },
+    "small": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-200}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-300}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-200}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-300}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      }
+    },
+    "xsmall": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-200}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-100}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-200}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-100}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      }
+    }
+  },
+  "Paragraph": {
+    "small": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-300}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-200}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-300}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-200}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      }
+    },
+    "xsmall": {
+      "Medium": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-100}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-100}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Medium-500}"
+        }
+      },
+      "Regular": {
+        "font-family": {
+          "$type": "string",
+          "$value": "{Typeface Family.Inter}"
+        },
+        "font-line-height": {
+          "$type": "number",
+          "$value": "{Typeface Line Height.Font-height-100}"
+        },
+        "font-size": {
+          "$type": "number",
+          "$value": "{Typeface Size.Font-size-100}"
+        },
+        "font-weight": {
+          "$type": "number",
+          "$value": "{Typeface Weight.Regular-400}"
+        }
+      }
+    }
+  }
+}

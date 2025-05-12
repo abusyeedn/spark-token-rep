@@ -1,0 +1,258 @@
+{
+  "Border Radius": {
+    "2xlarge": {
+      "$type": "number",
+      "$value": 20
+    },
+    "large": {
+      "$type": "number",
+      "$value": 12
+    },
+    "medium": {
+      "$type": "number",
+      "$value": 8
+    },
+    "none": {
+      "$type": "number",
+      "$value": 0
+    },
+    "small": {
+      "$type": "number",
+      "$value": 4
+    },
+    "xlarge": {
+      "$type": "number",
+      "$value": 16
+    }
+  },
+  "Elevation": {
+    "low-rised": {
+      "blur": {
+        "$type": "number",
+        "$value": 16
+      },
+      "spread": {
+        "$type": "number",
+        "$value": 0
+      },
+      "x": {
+        "$type": "number",
+        "$value": 4
+      },
+      "y": {
+        "$type": "number",
+        "$value": 2
+      }
+    },
+    "mid-rised": {
+      "blur": {
+        "$type": "number",
+        "$value": 24
+      },
+      "spread": {
+        "$type": "number",
+        "$value": 0
+      },
+      "x": {
+        "$type": "number",
+        "$value": 4
+      },
+      "y": {
+        "$type": "number",
+        "$value": 8
+      }
+    },
+    "modal-sheet": {
+      "blur": {
+        "$type": "number",
+        "$value": 24
+      },
+      "spread": {
+        "$type": "number",
+        "$value": -8
+      },
+      "x": {
+        "$type": "number",
+        "$value": 0
+      },
+      "y": {
+        "$type": "number",
+        "$value": -16
+      }
+    }
+  },
+  "Global Size": {
+    "size-00": {
+      "$type": "number",
+      "$value": 0
+    },
+    "size-01": {
+      "$type": "number",
+      "$value": 1
+    },
+    "size-02": {
+      "$type": "number",
+      "$value": 2
+    },
+    "size-04": {
+      "$type": "number",
+      "$value": 4
+    },
+    "size-06": {
+      "$type": "number",
+      "$value": 6
+    },
+    "size-08": {
+      "$type": "number",
+      "$value": 8
+    },
+    "size-12": {
+      "$type": "number",
+      "$value": 12
+    },
+    "size-16": {
+      "$type": "number",
+      "$value": 16
+    },
+    "size-20": {
+      "$type": "number",
+      "$value": 20
+    },
+    "size-24": {
+      "$type": "number",
+      "$value": 24
+    },
+    "size-28": {
+      "$type": "number",
+      "$value": 28
+    },
+    "size-32": {
+      "$type": "number",
+      "$value": 32
+    },
+    "size-358": {
+      "$type": "number",
+      "$value": 358
+    },
+    "size-36": {
+      "$type": "number",
+      "$value": 36
+    },
+    "size-40": {
+      "$type": "number",
+      "$value": 40
+    },
+    "size-44": {
+      "$type": "number",
+      "$value": 44
+    },
+    "size-48": {
+      "$type": "number",
+      "$value": 48
+    },
+    "size-52": {
+      "$type": "number",
+      "$value": 52
+    },
+    "size-56": {
+      "$type": "number",
+      "$value": 56
+    },
+    "size-60": {
+      "$type": "number",
+      "$value": 60
+    },
+    "size-64": {
+      "$type": "number",
+      "$value": 64
+    },
+    "size-68": {
+      "$type": "number",
+      "$value": 68
+    },
+    "size-72": {
+      "$type": "number",
+      "$value": 72
+    },
+    "size-76": {
+      "$type": "number",
+      "$value": 76
+    },
+    "size-80": {
+      "$type": "number",
+      "$value": 80
+    },
+    "size-84": {
+      "$type": "number",
+      "$value": 84
+    },
+    "size-88": {
+      "$type": "number",
+      "$value": 88
+    }
+  },
+  "Icon Size": {
+    "large": {
+      "$type": "number",
+      "$value": 24
+    },
+    "medium": {
+      "$type": "number",
+      "$value": 20
+    },
+    "small": {
+      "$type": "number",
+      "$value": 16
+    },
+    "xsmall": {
+      "$type": "number",
+      "$value": 12
+    }
+  },
+  "Spacing": {
+    "0": {
+      "$type": "number",
+      "$value": 0
+    },
+    "1": {
+      "$type": "number",
+      "$value": 2
+    },
+    "10": {
+      "$type": "number",
+      "$value": 48
+    },
+    "2": {
+      "$type": "number",
+      "$value": 4
+    },
+    "3": {
+      "$type": "number",
+      "$value": 8
+    },
+    "4": {
+      "$type": "number",
+      "$value": 12
+    },
+    "5": {
+      "$type": "number",
+      "$value": 16
+    },
+    "6": {
+      "$type": "number",
+      "$value": 20
+    },
+    "7": {
+      "$type": "number",
+      "$value": 24
+    },
+    "8": {
+      "$type": "number",
+      "$value": 32
+    },
+    "9": {
+      "$type": "number",
+      "$value": 40
+    }
+  }
+}

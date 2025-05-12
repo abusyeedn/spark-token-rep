@@ -1,0 +1,821 @@
+{
+  "Action List": {
+    "action-list": {
+      "icon-size": {
+        "$type": "number",
+        "$value": "{Global Size.size-20}"
+      }
+    },
+    "action-list-group": {
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.7}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      }
+    },
+    "action-list-item": {
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "icon-size": {
+        "$type": "number",
+        "$value": "{Global Size.size-20}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    }
+  },
+  "Avatar": {
+    "large": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.2xlarge}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-60}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-60}"
+      }
+    },
+    "medium": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.xlarge}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-48}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-48}"
+      }
+    },
+    "small": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.2xlarge}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-36}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-36}"
+      }
+    }
+  },
+  "Badge": {
+    "large": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.2xlarge}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-24}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      },
+      "icon-size": {
+        "$type": "number",
+        "$value": "{Global Size.size-16}"
+      },
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      }
+    },
+    "medium": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.xlarge}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-20}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      },
+      "icon-size": {
+        "$type": "number",
+        "$value": "{Global Size.size-12}"
+      },
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      }
+    },
+    "small": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.2xlarge}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-16}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      },
+      "icon-size": {
+        "$type": "number",
+        "$value": "{Global Size.size-12}"
+      },
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.1}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      }
+    }
+  },
+  "Bar Chart": {
+    "bar-chart": {
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    }
+  },
+  "Bottom Sheet": {
+    "footer": {
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      }
+    },
+    "grid": {
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.7}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      }
+    },
+    "header": {
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      }
+    }
+  },
+  "Button": {
+    "large": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.medium}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-44}"
+      },
+      "horzontal-padding": {
+        "$type": "number",
+        "$value": "{Global Size.size-20}"
+      },
+      "icon-space": {
+        "$type": "number",
+        "$value": "{Global Size.size-08}"
+      },
+      "main-icon": {
+        "$type": "number",
+        "$value": "{Icon Size.medium}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-76}"
+      }
+    },
+    "medium": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.medium}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-36}"
+      },
+      "horzontal-padding": {
+        "$type": "number",
+        "$value": "{Global Size.size-16}"
+      },
+      "icon-space": {
+        "$type": "number",
+        "$value": "{Global Size.size-08}"
+      },
+      "main-icon": {
+        "$type": "number",
+        "$value": "{Icon Size.small}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-68}"
+      }
+    },
+    "small": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.medium}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-32}"
+      },
+      "horzontal-padding": {
+        "$type": "number",
+        "$value": "{Global Size.size-12}"
+      },
+      "icon-space": {
+        "$type": "number",
+        "$value": "{Global Size.size-04}"
+      },
+      "main-icon": {
+        "$type": "number",
+        "$value": "{Icon Size.xsmall}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-60}"
+      }
+    }
+  },
+  "Card": {
+    "card": {
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      }
+    }
+  },
+  "Checkbox": {
+    "medium": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.small}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-20}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.1}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.1}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-20}"
+      }
+    },
+    "small": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.small}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-16}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.0}"
+      },
+      "label-space": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.0}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-16}"
+      }
+    }
+  },
+  "Donut Chart": {
+    "donut-chart": {
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.7}"
+      }
+    },
+    "legend": {
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    }
+  },
+  "Global[Mobile]": {
+    "$type": "boolean",
+    "$value": true,
+    "$description": "Toggle for Mobile and Web"
+  },
+  "Input Text": {
+    "input-text": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.medium}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-48}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.4}"
+      },
+      "primary-icon-size": {
+        "$type": "number",
+        "$value": "{Icon Size.medium}"
+      },
+      "secondary-icon-size": {
+        "$type": "number",
+        "$value": "{Icon Size.small}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.4}"
+      }
+    }
+  },
+  "Input Text Area": {
+    "large": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.medium}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-88}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.4}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    },
+    "medium": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.medium}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-76}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.4}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    },
+    "small": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.medium}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-64}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.4}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    }
+  },
+  "Media Card": {
+    "content": {
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    },
+    "footer": {
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    },
+    "header": {
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    },
+    "image-count": {
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      }
+    }
+  },
+  "Modal": {
+    "modal": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.large}"
+      },
+      "element-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      },
+      "icon-size": {
+        "$type": "number",
+        "$value": "{Icon Size.medium}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.4}"
+      }
+    },
+    "modal-item": {
+      "footer": {
+        "button-space": {
+          "$type": "number",
+          "$value": "{Spacing.4}"
+        },
+        "horizontal-space": {
+          "$type": "number",
+          "$value": "{Spacing.5}"
+        },
+        "vertical-space": {
+          "$type": "number",
+          "$value": "{Spacing.2}"
+        }
+      },
+      "header": {
+        "horizontal-space": {
+          "$type": "number",
+          "$value": "{Spacing.5}"
+        },
+        "text-spacing": {
+          "$type": "number",
+          "$value": "{Spacing.3}"
+        },
+        "vertical-space": {
+          "$type": "number",
+          "$value": "{Spacing.2}"
+        }
+      }
+    }
+  },
+  "Navigation Bar": {
+    "medium": {
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.8}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    }
+  },
+  "OTP Input": {
+    "otp-input": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.medium}"
+      },
+      "box-space": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "element-space": {
+        "$type": "number",
+        "$value": "{Spacing.4}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-40}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-40}"
+      }
+    }
+  },
+  "Poll": {
+    "poll": {
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    },
+    "poll-item": {
+      "vertical-gap": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    }
+  },
+  "Radio": {
+    "large": {
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-16}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-16}"
+      }
+    },
+    "medium": {
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-12}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-12}"
+      }
+    }
+  },
+  "Skeleton Loader": {
+    "skeleton-loader": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.large}"
+      }
+    }
+  },
+  "Tab": {
+    "medium": {
+      "icon-size": {
+        "$type": "number",
+        "$value": "{Global Size.size-24}"
+      }
+    },
+    "small": {
+      "icon-size": {
+        "$type": "number",
+        "$value": "{Global Size.size-20}"
+      }
+    }
+  },
+  "Tag": {
+    "large": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.small}"
+      },
+      "dismiss-size": {
+        "$type": "number",
+        "$value": "{Global Size.size-20}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.4}"
+      },
+      "icon-space": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      },
+      "leading-icon-size": {
+        "$type": "number",
+        "$value": "{Global Size.size-20}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      }
+    },
+    "medium": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.small}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.3}"
+      },
+      "icon-space": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      },
+      "leading-icon-size": {
+        "$type": "number",
+        "$value": "{Global Size.size-16}"
+      },
+      "trail-icon-size": {
+        "$type": "number",
+        "$value": "{Global Size.size-16}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.2}"
+      }
+    }
+  },
+  "Toast": {
+    "toast": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.medium}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-48}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.5}"
+      },
+      "icon-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.4}"
+      },
+      "primary-icon-size": {
+        "$type": "number",
+        "$value": "{Icon Size.medium}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.4}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-358}"
+      }
+    }
+  },
+  "Toggle": {
+    "medium": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.2xlarge}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-24}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.1}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.1}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-44}"
+      }
+    },
+    "small": {
+      "border-radius": {
+        "$type": "number",
+        "$value": "{Border Radius.2xlarge}"
+      },
+      "height": {
+        "$type": "number",
+        "$value": "{Global Size.size-20}"
+      },
+      "horizontal-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.1}"
+      },
+      "vertical-spacing": {
+        "$type": "number",
+        "$value": "{Spacing.1}"
+      },
+      "width": {
+        "$type": "number",
+        "$value": "{Global Size.size-36}"
+      }
+    }
+  }
+}
