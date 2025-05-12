@@ -6,7 +6,7 @@
     },
     "Inter": {
       "$type": "string",
-      "$value": "Inter"
+      "$value": "Roboto"
     }
   },
   "Typeface Line Height": {
